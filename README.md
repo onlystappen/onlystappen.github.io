@@ -16,4 +16,4 @@ I am a 3rd-year Software Engineering student at Iğdır University. I am a passi
 
 ### 📬 Contact
 * Currently looking for internship opportunities for July 2026!
-* Connect with me on LinkedIn or check out my YouTube channel: Yahya Arda Sandıkçı.
+* Connect with me on LinkedIn or check out my YouTube channel: Yahya Arda Sandıkçı. 
